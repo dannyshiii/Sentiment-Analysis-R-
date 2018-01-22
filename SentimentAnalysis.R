@@ -1,5 +1,18 @@
 # Sentiment Analysis by Danni Shi
-# This initially reads tweets on Twitter
+# This function / project was completed in Nov 2017
+# when I was working for Seowon (Joseph) Shin, 
+# a PhD candidate of Michael G. Foster School of Business.
+# The original purpose of that project was to analyze
+# tweets about unicorn companies before and after 
+# their announcement of being unicorn.
+# The part I did was analyzing #23andMe.
+# Although I no longer work for him any more,
+# I will not release the data of #23andMe here,
+# and I will not show my codes of my complete analysis.
+# But after all, this is a fun experience for me,
+# and I chose to upload my codes of sentiment analysis to git.
+
+# These files initially reads tweets on Twitter
 # Now I kinda generalized it
 library(tidyverse)
 library(stringr)
